@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "ChavezCoin")
+set(CN_CURRENCY_DISPLAY_NAME "chavezcoin")
+set(CN_CURRENCY_TICKER "CC")
+set(CN_VERSION 1.1.7)

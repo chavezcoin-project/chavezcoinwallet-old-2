@@ -1,0 +1,20 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chavezcoin
+GenericName=Chavezcoin wallet
+Name[uk]=Карбованeць
+Name[ru]=Карбованeц
+Name[pl]=Karbowaneć
+Name[be]=Карбованэць
+Comment=Chavezcoin wallet
+Comment[uk]=Гаманець Карбованца
+Comment[ru]=Кошелек Карбованца
+Comment[pl]=Portfel Karbowańca
+Comment[be]=Кашалёк Карбованца
+Exec=chavezcoin %U
+Terminal=false
+Type=Application
+Icon=chavezcoin
+MimeType=x-scheme-handler/chavezcoin;
+Categories=Office;Finance;
+Version=1.1.7
